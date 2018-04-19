@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\bharat\IdeaProjects\SplashBallAnimation\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="2e3be0d3304e5f1c12c929cc23cc640bc048ab60">
+        <dex dex="C:\Users\bharat\IdeaProjects\SplashBallAnimation\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_97ee50dd8e0c192b955f0ce43a6b8428a0eb4258\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bharat\.android\build-cache\96fbb3d931c2b3f85067303809bbf74b337ca022\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="C:\Users\bharat\IdeaProjects\SplashBallAnimation\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_33b7876f17fde53c281e8b27186103766903e997\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bharat\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\bharat\IdeaProjects\SplashBallAnimation\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_6041fda042cde9e404280dc36a47dc74d763adc0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bharat\.android\build-cache\6297168617ea48010a2c1fd23eb7bc4ffbd67404\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\bharat\IdeaProjects\SplashBallAnimation\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_887e39dafbb4f85fc457491b9d4151f3db335485\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bharat\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="C:\Users\bharat\IdeaProjects\SplashBallAnimation\app\build\intermediates\transforms\dex\debug\folders\1000\10\common-1.0.0_8a7af7870ee837074a818f66dfefc817a0227142\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bharat\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="C:\Users\bharat\IdeaProjects\SplashBallAnimation\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.1.0_314145c42350c82d3de86c82b9d1adbca238a4d7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bharat\.android\build-cache\a12fbbe0e0ac9fed0a11261706fd294cfc5468d1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\bharat\IdeaProjects\SplashBallAnimation\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_db2404e487d48a134802fc93c1eedd6dc1fb8205\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bharat\.android\build-cache\129af8405fc54c2ce8b124dab6f7bdb4721f1851\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="C:\Users\bharat\IdeaProjects\SplashBallAnimation\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8cc0cb5c0604274dedd332581bc01f39d46bba7d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bharat\.android\build-cache\70bc446272d637efd763365c5bce7976353098c9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="C:\Users\bharat\IdeaProjects\SplashBallAnimation\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1be6f0d06d4c2dae1c263ef70ce3d2144412329d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bharat\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="C:\Users\bharat\IdeaProjects\SplashBallAnimation\app\build\intermediates\transforms\dex\debug\folders\1000\10\common-1.0.0_c5864492d18a58da94d800fc03c4d8d2a5c4120a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bharat\.android\build-cache\5d7acfa6deb3f78c457355ec33991be917a78697\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="C:\Users\bharat\IdeaProjects\SplashBallAnimation\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5b686de3f6b3eecd35efdb39d2b370a7e89f548d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bharat\.android\build-cache\17fef011cf73c6323b74f55476cdd4ede3c30753\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="C:\Users\bharat\IdeaProjects\SplashBallAnimation\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_044eccd6038e27b6ae83c11c1281b0f802597d86\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bharat\.android\build-cache\ff9cca67833664ede97f39f85981a0b41b7d250d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="C:\Users\bharat\IdeaProjects\SplashBallAnimation\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6f0d3e9457db0e586c24280ebd34bd3f56d96f20\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bharat\IdeaProjects\SplashBallAnimation\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="C:\Users\bharat\IdeaProjects\SplashBallAnimation\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_36e393f8b2eb4ec3ac38ded93fe3a4dd278edce8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bharat\.android\build-cache\41beb90ba5bcd6a33f6929fb1d269b2919c98aa7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="C:\Users\bharat\IdeaProjects\SplashBallAnimation\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_82db4e8b358015622403fbd03f83f9617f48d16c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bharat\.android\build-cache\8c9a51e2f6fa91c6e6637a841ee6adf53e6521ed\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="C:\Users\bharat\IdeaProjects\SplashBallAnimation\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a68090951318d77f7075e2ce0923584e156d8d04\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bharat\.android\build-cache\32ab5d1171cc0fdc19c2f96bc4dda54e9d6ec8a0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="C:\Users\bharat\IdeaProjects\SplashBallAnimation\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e9c75262bb26fa4aa9fce8de75df2544db5d5a49\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,7 @@
+#Tue Apr 17 00:32:06 IST 2018
+base.0=C\:\\Users\\bharat\\IdeaProjects\\SplashBallAnimation\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_36e393f8b2eb4ec3ac38ded93fe3a4dd278edce8
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\bharat\\IdeaProjects\\SplashBallAnimation\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_97ee50dd8e0c192b955f0ce43a6b8428a0eb4258\\classes.dex
+base.1=C\:\\Users\\bharat\\IdeaProjects\\SplashBallAnimation\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_97ee50dd8e0c192b955f0ce43a6b8428a0eb4258
+file.0=C\:\\Users\\bharat\\IdeaProjects\\SplashBallAnimation\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_36e393f8b2eb4ec3ac38ded93fe3a4dd278edce8\\classes.dex
